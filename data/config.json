@@ -1,0 +1,145 @@
+{
+    "device_id": "2f5d3f50-c0ce-4f9c-b46f-7079cef8a368",
+    "last_update": "2021-02-02 22:14:24",
+    "models": [
+        {
+            "files": [
+                {
+                    "file_url": "https://chooch-object-detection-models.s3.amazonaws.com/object_detection/models_tf/777/train/yolo_best.weights?AWSAccessKeyId=AKIAYYEUVOMLLCMRVINM&Signature=XQmCo3gWYpiSDYB%2F%2B2FNl%2FuMyok%3D&Expires=1612908864",
+                    "file_short_title": "yolo_best.weights"
+                },
+                {
+                    "file_url": "https://chooch-object-detection-models.s3.amazonaws.com/object_detection/models_tf/777/data/class.names?AWSAccessKeyId=AKIAYYEUVOMLLCMRVINM&Signature=u0umENpMCCi4NRpnFA1VYM7fTL8%3D&Expires=1612908864",
+                    "file_short_title": "class.names"
+                },
+                {
+                    "file_url": "https://chooch-object-detection-models.s3.amazonaws.com/object_detection/models_tf/777/data/data.json?AWSAccessKeyId=AKIAYYEUVOMLLCMRVINM&Signature=5KfEI9xz3prUKDNrDEJCAU%2Bjscc%3D&Expires=1612908864",
+                    "file_short_title": "data.json"
+                },
+                {
+                    "file_url": "https://chooch-object-detection-models.s3.amazonaws.com/object_detection/models_tf/777/data/yolo.cfg?AWSAccessKeyId=AKIAYYEUVOMLLCMRVINM&Signature=qd3p6y4oET2UVBVWoILbNtLZ16o%3D&Expires=1612908864",
+                    "file_short_title": "yolo.cfg"
+                },
+                {
+                    "file_url": "https://chooch-object-detection-models.s3.amazonaws.com/object_detection/models_tf/777/train/chart.jpg?AWSAccessKeyId=AKIAYYEUVOMLLCMRVINM&Signature=vu0E573TNB1wsESnGlilApH25oA%3D&Expires=1612908864",
+                    "file_short_title": "chart.jpg"
+                }
+            ],
+            "model_id": 777,
+            "child_model_info": null,
+            "perception_mode": "dense",
+            "model_title": "General Object Detection 3.1",
+            "model_type": "object",
+            "image_model": {
+                "files": [
+                    {
+                        "file_url": "https://choochmodels2.s3.amazonaws.com/modelsrun/0/mymodel.onnx?AWSAccessKeyId=AKIAYYEUVOMLLCMRVINM&Signature=SJyYPqI0VBs7yXaRPLhRtnC9Ark%3D&Expires=1612908864",
+                        "file_short_title": "mymodel.onnx"
+                    },
+                    {
+                        "file_url": "https://choochmodels2.s3.amazonaws.com/modelsrun/0/mymodel-synset.txt?AWSAccessKeyId=AKIAYYEUVOMLLCMRVINM&Signature=7O067ZS8N2oIgVNnTR9eBFzk%2F3g%3D&Expires=1612908864",
+                        "file_short_title": "mymodel-synset.txt"
+                    },
+                    {
+                        "file_url": "https://choochmodels2.s3.amazonaws.com/modelsrun/0/data.json?AWSAccessKeyId=AKIAYYEUVOMLLCMRVINM&Signature=Gg%2F%2FWLak5QBJsJKPh9KIcyDNdV8%3D&Expires=1612908864",
+                        "file_short_title": "data.json"
+                    },
+                    {
+                        "file_url": "https://choochmodels2.s3.amazonaws.com/modelsrun/0/mymodel-0000.params?AWSAccessKeyId=AKIAYYEUVOMLLCMRVINM&Signature=8GOcfYWNHWzEX%2Fjb%2Bz%2BlRdgKjQU%3D&Expires=1612908864",
+                        "file_short_title": "mymodel-0000.params"
+                    },
+                    {
+                        "file_url": "https://choochmodels2.s3.amazonaws.com/modelsrun/0/mymodel-symbol.json?AWSAccessKeyId=AKIAYYEUVOMLLCMRVINM&Signature=%2BQr62YzPHGTl0VAjRd9rKm6drNk%3D&Expires=1612908864",
+                        "file_short_title": "mymodel-symbol.json"
+                    }
+                ],
+                "model_id": 0,
+                "model_title": "General Object Detection 3.1"
+            }
+        },
+        {
+            "files": [
+                {
+                    "file_url": "https://chooch-object-detection-models.s3.amazonaws.com/object_detection/models_tf/1134/train/yolo_best.weights?AWSAccessKeyId=AKIAYYEUVOMLLCMRVINM&Signature=q8lKeMYbOLqHaNZL0y88SExfOhg%3D&Expires=1612908864",
+                    "file_short_title": "yolo_best.weights"
+                },
+                {
+                    "file_url": "https://chooch-object-detection-models.s3.amazonaws.com/object_detection/models_tf/1134/data/class.names?AWSAccessKeyId=AKIAYYEUVOMLLCMRVINM&Signature=m%2B%2Fh8kVgpBMbWVj3CAnsVwOFdgs%3D&Expires=1612908864",
+                    "file_short_title": "class.names"
+                },
+                {
+                    "file_url": "https://chooch-object-detection-models.s3.amazonaws.com/object_detection/models_tf/1134/data/data.json?AWSAccessKeyId=AKIAYYEUVOMLLCMRVINM&Signature=CWTmQEUl5e%2FqZ1fp2Oj7VfwyPaU%3D&Expires=1612908864",
+                    "file_short_title": "data.json"
+                },
+                {
+                    "file_url": "https://chooch-object-detection-models.s3.amazonaws.com/object_detection/models_tf/1134/data/yolo.cfg?AWSAccessKeyId=AKIAYYEUVOMLLCMRVINM&Signature=FB0Sj4I77cEdpTzgn5PC01%2Bo%2FbY%3D&Expires=1612908864",
+                    "file_short_title": "yolo.cfg"
+                },
+                {
+                    "file_url": "https://chooch-object-detection-models.s3.amazonaws.com/object_detection/models_tf/1134/train/chart.jpg?AWSAccessKeyId=AKIAYYEUVOMLLCMRVINM&Signature=0FTYy%2FsYEEzIvRaCPdyIIFPazrI%3D&Expires=1612908864",
+                    "file_short_title": "chart.jpg"
+                }
+            ],
+            "model_id": 1134,
+            "child_model_info": null,
+            "perception_mode": "dense",
+            "model_title": "Face ID, Demographics and Mask 3.0",
+            "model_type": "object",
+            "image_model": {
+                "files": [
+                    {
+                        "file_url": "https://choochmodels2.s3.amazonaws.com/modelsrun/0/mymodel.onnx?AWSAccessKeyId=AKIAYYEUVOMLLCMRVINM&Signature=SJyYPqI0VBs7yXaRPLhRtnC9Ark%3D&Expires=1612908864",
+                        "file_short_title": "mymodel.onnx"
+                    },
+                    {
+                        "file_url": "https://choochmodels2.s3.amazonaws.com/modelsrun/0/mymodel-synset.txt?AWSAccessKeyId=AKIAYYEUVOMLLCMRVINM&Signature=7O067ZS8N2oIgVNnTR9eBFzk%2F3g%3D&Expires=1612908864",
+                        "file_short_title": "mymodel-synset.txt"
+                    },
+                    {
+                        "file_url": "https://choochmodels2.s3.amazonaws.com/modelsrun/0/data.json?AWSAccessKeyId=AKIAYYEUVOMLLCMRVINM&Signature=Gg%2F%2FWLak5QBJsJKPh9KIcyDNdV8%3D&Expires=1612908864",
+                        "file_short_title": "data.json"
+                    },
+                    {
+                        "file_url": "https://choochmodels2.s3.amazonaws.com/modelsrun/0/mymodel-0000.params?AWSAccessKeyId=AKIAYYEUVOMLLCMRVINM&Signature=8GOcfYWNHWzEX%2Fjb%2Bz%2BlRdgKjQU%3D&Expires=1612908864",
+                        "file_short_title": "mymodel-0000.params"
+                    },
+                    {
+                        "file_url": "https://choochmodels2.s3.amazonaws.com/modelsrun/0/mymodel-symbol.json?AWSAccessKeyId=AKIAYYEUVOMLLCMRVINM&Signature=%2BQr62YzPHGTl0VAjRd9rKm6drNk%3D&Expires=1612908864",
+                        "file_short_title": "mymodel-symbol.json"
+                    }
+                ],
+                "model_id": 0,
+                "model_title": "Face ID, Demographics and Mask 3.0"
+            }
+        }
+    ],
+    "camera_feeds": [
+        {
+            "camera_feed_url": "rtsp://73.4.180.18:5001/h264cif",
+            "camera_name": "test_123",
+            "models_list": [
+                {
+                    "model_type": "object",
+                    "model_id": 777,
+                    "perception_mode": "dense",
+                    "model_title": "General Object Detection 3.1"
+                },
+                {
+                    "model_type": "object",
+                    "model_id": 1134,
+                    "perception_mode": "dense",
+                    "model_title": "Face ID, Demographics and Mask 3.0"
+                }
+            ],
+            "camera_id": 527
+        }
+    ],
+    "device_info": {
+        "device_docker": "choochai/chooch_ai-x86-64-cpu:latest",
+        "device_title": "test_intel",
+        "device_description": "",
+        "device_type": "inteli7+",
+        "api_end_point": "",
+        "device_platform": "pc_cpu_intel"
+    }
+}

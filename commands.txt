@@ -1,0 +1,4 @@
+sudo systemctl start chooch_predict_on_prem.service
+sudo systemctl status chooch_predict_on_prem.service
+sudo systemctl restart chooch_predict_on_prem.service
+sudo systemctl stop chooch_predict_on_prem.service
