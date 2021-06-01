@@ -8,8 +8,7 @@ Restart=always
 RestartSec=15
 ExecStart=/usr/bin/docker run {run_command} --rm --name %n \
 -v {data_path}:/app/chooch_ai_on_prem/data -v \
-/var/run/docker.sock:/var/run/docker.sock  \
--v /usr/bin/docker:/usr/bin/docker {logs} \
+/var/run/docker.sock:/var/run/docker.sock {logs} \
 --entrypoint /app/chooch_ai_on_prem/chooch_run.sh   \
 -p 8000:8000 -p 1883:1883 -p 8001:8001 {docker_name} 
     
