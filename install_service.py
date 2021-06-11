@@ -26,7 +26,7 @@ def get_model_device_info(device_id):
     
     url = "https://api.chooch.ai/predict/device_info/?device_id={}".format(device_id)
 
-    response = requests.post(url)
+    response = requests.post(url, verify=False)
 
     model_data = json.loads(response.content)
     
